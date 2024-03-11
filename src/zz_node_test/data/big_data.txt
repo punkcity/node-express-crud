@@ -1,0 +1,711 @@
+Big Data
+The well-known three Vs of Big Data - Volume, Variety, and Velocity – are increasingly placing pressure on organizations that need to manage this data as well as extract value from this data deluge for Predictive Analytics and Decision-Making. Big Data technologies, services, and tools such as Hadoop, MapReduce, Hive and NoSQL/NewSQL databases and Data Integration techniques, In-Memory approaches, and Cloud technologies have emerged to help meet the challenges posed by the flood of Web, Social Media, Internet of Things (IoT) and machine-to-machine (M2M) data flowing into organizations.
+
+
+
+Big Data Articles
+Cayosoft Secures $22.5M in Funding to Build Out its Active Directory Recovery Solution
+Cayosoft Inc., a leader in Microsoft Active Directory management, monitoring, and recovery, announced it has received a $22.5 million minority investment, enabling the company to bring its patent-pending, instant Active Directory (AD) forest recovery, management, and governance solutions to a wider audience, including international expansion. 
+
+Posted March 08, 2024
+
+SecurityPal Establishes Council to Shape the Future of Cybersecurity
+SecurityPal, a leader in customer assurance technology, unveiled the creation of the SecurityPal Council, an initiative bringing together top thought leaders and industry experts in cybersecurity to foster collaboration, share insights, and shape the future of cybersecurity in an ever-evolving digital landscape. The SecurityPal Council consists of select members who have demonstrated exceptional leadership and expertise in the cybersecurity field, and includes leaders from some of the world's most innovative companies like OpenAI, MongoDB, Perforce, Snap, and Orum, among others.
+
+Posted March 08, 2024
+
+WSO2 Identity Server 7.0 Expands Developer Productivity
+WSO2 is releasing WSO2 Identity Server 7.0 to address the demand for trusted digital experiences for all users. According to the company, version 7.0 optimizes the developer experience via a new authentication API for native, in-app, browser-less authentication; new visual editor that enables side-by-side graphical and code views; and new one-click access to application templates and authentication methods.
+
+Posted March 07, 2024
+
+CrowdStrike to Acquire Flow Security to Bolster Data Security Posture Management
+CrowdStrike is acquiring Flow Security, a cloud data runtime security solution, enabling the company to offer modern cloud security with comprehensive real-time data protection spanning endpoint and cloud environments. According to the company, with the acquisition of Flow Security and by bringing data security posture management (DSPM) to the CrowdStrike Falcon XDR platform, CrowdStrike is setting a new standard for modern cloud security with data security innovations that discover, classify, and protect data in all states from the risk of exposure, wherever it moves or resides.
+
+Posted March 07, 2024
+
+Alation Announces new Integrations with Technical Partners to Allow Organizations to Build Best-Of-Breed Data Environments
+Alation, Inc., the data intelligence company, is offering new integrations with leading technical partners to further increase the breadth and depth of the Alation Data Intelligence Platform. The new integrations with Amazon DynamoDB, Apache Kafka, Confluent Kafka, Elasticsearch, Fivetran, MongoDB, TIBCO Data Virtualization, and TIBCO Spotfire build on the open and extensible Alation Open Connector Framework, integrating with a global network of over 100 enterprise connectors, allowing organizations to access trusted data across their data ecosystem, according to Alation.
+
+Posted March 06, 2024
+
+Waldo’s Dollar Mart Unifies Business Processes with Oracle’s Finance and Retail Cloud Solutions
+Mexican retailer Waldo's Dollar Mart is using Oracle Cloud finance and merchandising applications to manage its complex, multi-format business model while continuing to offer customers more choices in products and buying channels. Waldo's operates more than 800 grocery and clothing stores throughout Mexico, with many of its clothing options coming from overseas.
+
+Posted March 06, 2024
+
+The Oracle Distributed Autonomous Database is Now Generally Available
+Oracle is releasing its Globally Distributed Autonomous Database, a fully managed Oracle Cloud Infrastructure (OCI) service that offers built-in, cutting-edge capabilities that redefine how enterprises manage and process distributed data. According to the company, with Autonomous Database's automated management and ease of use users don't have to have an extensive staff of experts to take advantage of the power of a distributed database.
+
+Posted March 06, 2024
+
+Onna Technologies is Powered by Oracle Cloud Infrastructure and Now Available in the Oracle Cloud Marketplace
+Onna Technologies, a provider helping companies manage unstructured data from cloud-based collaboration tools and a member of Oracle PartnerNetwork (OPN), announced that its data management platform has achieved Powered by Oracle Cloud Expertise and is now available on the Oracle Cloud Marketplace.
+
+Posted March 06, 2024
+
+Civo Looks to Simplify Cloud Computing with the Acquisition of Kubefirst 
+Civo, a pure-play cloud-native service provider, is acquiring Kubefirst, a renowned open-source GitOps powered platform for Kubernetes, from its parent company Kubeshop—enhancing Civo's portfolio and forwarding its commitment to simplifying cloud computing complexities. Financial terms of the deal were not disclosed. 
+
+Posted March 05, 2024
+
+Dell Technologies and CrowdStrike Grow Partnership to Provide Comprehensive Managed Detection and Response
+Dell Technologies and CrowdStrike are expanding their partnership to deliver Dell's Managed Detection and Response (MDR) services with the AI-native CrowdStrike Falcon XDR platform, helping customers defend against increasingly complex cyberattacks. 
+
+Posted March 05, 2024
+
+DBTA 2024 Readers' Choice Awards Nominations Period Extended
+The nominations period for the 2024 DBTA Readers' Choice Awards is now extended through March 15, 2024 - followed by actual voting on the products nominated by our readers. Votes can only be cast for nominated products, so be sure to make your nominations now!
+
+Posted March 05, 2024
+
+DataOps.live Releases the Professional Edition of its Platform
+DataOps.live, the Data Products company, is releasing its Professional Edition of the DataOps.live Data Products Platform in response to a critical market demand: a fully managed and supported SaaS platform for dbt Core users on the Snowflake Data Cloud.  
+
+Posted March 04, 2024
+
+MongoDB Atlas Expands to 6 Additional Cloud Regions
+MongoDB, Inc. announced that its multi-cloud developer data platform, MongoDB Atlas, is now available in six additional cloud regions in Canada, Germany, Israel, Italy, and Poland—now making it the most widely available developer data platform in the world. With this expansion, MongoDB Atlas is now available in 117 cloud regions across Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to meet the demands of more customers with data residency, availability, and latency-sensitive application requirements.
+
+Posted March 04, 2024
+
+Neon Boosts its Partner Program, Further Extending Scalable Databases Globally
+Neon, the startup giving Postgres databases serverless capabilities, is enhancing its partnership program, further achieving its mission of bringing Postgres to as many developers as possible across the globe. The company, which recently announced it secured a $46M investment, continues its growth with this latest update, according to the company.
+
+Posted March 04, 2024
+
+Kerlink and Actility Collaborate to Craft a New Paradigm for IoT Connectivity
+Kerlink, an international specialist in solutions dedicated to the Internet of Things (IoT), and Actility, a recognized global provider in low-power industrial IoT connectivity solutions, are forming a strategic partnership that builds on complementary strengths of their products, along with supporting a plug-and-play, edge computing LoRaWAN ecosystem in a single solution.
+
+Posted March 01, 2024
+
+Seeq Introduces GenAI Assistant to Accelerate Operational Excellence Across the Industrial Enterprise
+Seeq, a provider of industrial analytics and AI solutions, is debuting the Seeq AI Assistant, a generative AI (GenAI) resource embedded across its industrial analytics platform that provides real-time assistance to users across the enterprise. The Seeq AI Assistant empowers users to accelerate mastery of the Seeq platform, build advanced analytics, machine learning, and AI skills and knowledge, and accelerate insights to improve decision making in pursuit of operational excellence and sustainability, according to the company.
+
+Posted March 01, 2024
+
+Informatica Reveals AI-Powered Cloud Data Access Management Solution
+Informatica is unveiling Informatica Cloud Data Access Management (CDAM), a solution based on Informatica's 2023 acquisition of Privitar, offering an AI-powered solution that is a key component of data access governance, leveraging IDMC's common metadata foundation. According to the company, CDAM revolutionizes how organizations manage, share, and use their data by ensuring compliance with policies and fostering customer trust. It integrates with IDMC to offer secure and automated AI and analytics use cases.
+
+Posted February 29, 2024
+
+Airbyte Provides Python Library, Makes 250 Data Connectors Available
+Airbyte, creator of an open-source data movement infrastructure, is offering PyAirbyte, an open-source Python library that makes it easy to move data across API sources and destinations. According to the company, the solution enables Airbyte resources to be created and managed using code, rather than the user interface (UI).
+
+Posted February 29, 2024
+
+OVHcloud Releases OVHcloud Managed Databases as a Fully Managed Cloud Platform
+OVHcloud US, a leading global cloud provider, is introducing OVHcloud Managed Databases, offering clients a "configure-and-forget" solution to simplify the set-up and management of cloud databases. With OVHcloud US Managed Database services, the solution takes care of the database infrastructure and administration, including set-up, backup, scalability, and security.
+
+Posted February 29, 2024
+
+Flexera Acquires Snow Software, Empowering Customers to Manage Spend and Reduce Risk in Their Hybrid IT Environments
+Flexera announced that it has completed the acquisition of Snow Software, giving customers the ability to derive more value from their technology investments with unprecedented visibility into their hybrid IT estate.
+
+Posted February 29, 2024
+
+Synadia Raises $25M in Series B Funding, Driving Edge Computing and Multi-Cloud Innovation
+Synadia Communications, Inc., creator and maintainer of NATS.io (NATS), announced it has closed a $25 million Series B financing round, further validating the company's holistic approach to solving the increasingly complex and pervasive challenges of distributed computing, which is driving rapid growth in edge computing investments.
+
+Posted February 29, 2024
+
+Prosimo Introduces Solution to Integrate AI into Cloud Networking
+Prosimo, a provider of multi-cloud networking software, is releasing an AI Suite for Multi-Cloud Networking, empowering teams to bring AI workloads to market faster and supercharging AI readiness. Prosimo AI Suite for Multi-Cloud Networking is a full-stack, cloud-native platform that understands connectivity needs across L3 to L7 and enables enterprises to take advantage of cloud-native connectivity designed for AI, according to the company.
+
+Posted February 29, 2024
+
+Semgrep Now Supports Fast and Effective Security Solutions for C and C++ Developers
+Semgrep, a code security solution designed for engineering-centric security programs, announced general availability and support for C and C++ programming languages in Semgrep Code, aiming to set a new standard for rapidly securing C and C++ codebases without compromising on accuracy or efficiency. Semgrep Code is a fast, customizable, and developer-oriented static application security testing (SAST) solution.
+
+Posted February 28, 2024
+
+Entro Adds Machine Identity Lifecycle Management to its Security Platform
+Entro, a cybersecurity startup offering machine identity secrets security and management, is adding Machine Identity Lifecycle Management to its platform along with new integrations designed to further assist organizations that are shifting to the cloud. According to the company, Entro's new Machine Identity Lifecycle Management capabilities provide security teams with tools to manage, actively monitor, and control the entire lifecycle of a secret from creation, to use, to retirement, and everything in between.
+
+Posted February 28, 2024
+
+Seagate Technology Successfully Deploys SAP S/4HANA and the SAP BW/4HANA
+SAP announced the successful launch of SAP S/4HANA and the SAP BW/4HANA solution for Seagate Technology Holdings plc, a leading provider of mass-capacity data storage solutions. According to the companies, the solution deployments will modernize the organization's enterprise resource planning (ERP) system and benefit nearly 30,000 global employees through integrating advanced functionalities, such as enabling global manufacturing, supply chain, and finance business processes.
+
+Posted February 28, 2024
+
+SAP Creates Dedicated Division to Focus on AI Growth
+SAP has created a new end-to-end growth area focused on AI, overseeing the entire value chain for SAP Business AI, from product development and research through to customer implementation. The new unit will fall under the leadership of Dr. Philipp Herzig in the newly created role of chief artificial intelligence officer (CAIO). In this new role, effective January 2024, Herzig reports directly to CEO Christian Klein.
+
+Posted February 28, 2024
+
+Syniti Acquires Rightsizer Software to Drive Better Business Outcomes From SAP Transformation Projects
+Syniti, a global leader in enterprise data management, announced it has acquired Proceed Group's Rightsizer software, a tool for identifying archiving opportunities and determining infrastructure sizing as organizations embark on their SAP S/4HANA transformations. The acquisition will expand and complement Syniti's current portfolio of solutions and build on the company's Data First approach to digital strategy of prioritizing data work at the start of any business transformation project. 
+
+Posted February 28, 2024
+
+Ikigai Labs AI Platform Arrives on the SAP Store to Deliver Insights for Time Series Data
+Ikigai Labs announced its AI platform is now available on SAP Store, integrating with SAP to deliver AI-enabled data reconciliation, time series forecasting, and scenario planning across a broad range of industry and horizontal use cases. With the Ikigai platform, business users can merge disparate sources of time series data and utilize APIs or no-code AI/ML to build enterprise-wide AI apps in just a few clicks.
+
+Posted February 28, 2024
+
+Zumasys Explores How Rover Can Leverage Pick MultiValue
+Zumasys recently held an informational webinar about modernizing PICK MultiValue applications with the Rover Business Suite by Zumasys. Learn how Rover Business Suite maintains the integrity and functionality of your current PICK MultiValue applications while bringing them into the modern era.
+
+Posted February 28, 2024
+
+Rocket Software Adds New AI Features to its Documentation Portal
+Rocket Software is enhancing the Rocket Product Documentation Portal, giving customers the ability to quickly find and understand the answers to their questions. Rocket Software, as it continues to improve the customer experience when accessing critical information, recently implemented three AI-based features to the Rocket Documentation Portal.
+
+Posted February 28, 2024
+
+Flashpoint Ignite Provides a Holistic View of the Cyberthreat Landscape
+Flashpoint is introducing new capabilities and enhancements to its signature platform, Ignite, that are designed to provide a holistic view of risk. Flashpoint Fraud Intelligence and Vulnerability Intelligence offer a new range of intelligence possibilities, allowing CTI teams to connect disparate intelligence and eliminate data silos, according to the company.
+
+Posted February 27, 2024
+
+Reltio Strengthens Data Unification with New AI-Powered Capabilities
+Reltio, a leading data unification and management company, is introducing its latest product enhancements presenting Reltio's LLM-powered, pre-trained machine learning (ML) feature for entity resolution, along with providing a new AI capability designed to simplify matching and make digital content searches easier.
+
+Posted February 26, 2024
+
+IBM Provides Proactive Networking Professional Services for Cisco
+IBM is expanding its enterprise networking portfolio with new offerings for Cisco networking with limited regional availability, including IBM Support and Implementation Services for Software Defined Networking as well as IBM Network Health Check, to help clients build a more integrated networking environment.
+
+Posted February 26, 2024
+
+IBM Report Finds Spike in Cyberattacks Exploiting Identity
+IBM is releasing the 2024 X-Force Threat Intelligence Index underscoring an emerging global identity crisis as cybercriminals double down on exploiting user identities to compromise enterprises. According to IBM X-Force, IBM Consulting's offensive and defensive security services arm, in 2023, cybercriminals saw more opportunities to "log in" versus hack into corporate networks through valid accounts—making this tactic a preferred weapon of choice for threat actors.
+
+Posted February 26, 2024
+
+Wipro and IBM Boost Partnership to Offer New AI Services and Support
+Wipro Limited, a leading technology services and consulting company, is launching the Wipro Enterprise Artificial Intelligence (AI)-Ready Platform, a new service that will allow clients to create their enterprise-level, fully integrated and customized AI environments. The Wipro Enterprise AI-Ready Platform leverages the IBM watsonx AI and data platform, including watsonx.ai, watsonx.data, and watsonx.governance and AI assistants, to deliver to clients an interoperable service that helps accelerate AI adoption.
+
+Posted February 26, 2024
+
+Clumio Secures $75M in Funding Round to Bolster Backup and Recovery for Public Cloud
+Clumio, a provider of data backup and recovery for public cloud, announced it has secured $75M in a Series D funding round, enabling the company to accelerate its innovation and go-to-market strategy of radically simplifying backup and recovery for public cloud customers. The funding round was led by Sutter Hill Ventures, along with participation from existing investors Index Ventures and Altimeter Capital, and new investor NewView Capital. Clumio has now raised a total of $261 million.
+
+Posted February 22, 2024
+
+Palo Alto Networks Alleviates the Cost of Switching from Legacy Endpoint Security Solutions to Cortex XDR
+Palo Alto Networks is offering a new Cortex platform capability for endpoint security, assisting customers to accelerate "platformization" and improve their endpoint protection. Organizations struggle to prevent, detect, and respond to the continuous advancement of cyberthreats.
+
+Posted February 22, 2024
+
+Permit.io Introduces Platform for Fine-Grain Authorization, Secures $8M in Funding Round
+Permit.io, a full-stack authorization-as- a-service provider, announced it has raised $8 million in Series A funding, with the ultimate goal of ensuring application developers never have to build permissions again. In addition to the funding, the company also unveiled Permit.io Approval Flows to enable enterprises to handle increasingly complex authorizations for access to data, including for AI bots and agents.
+
+Posted February 21, 2024
+
+Guardrails AI Promises to Stop ‘Hallucinations’ Plaguing LLMs with $7.5M in Seed Funding
+Guardrails AI, the open and trusted AI assurance company, formally debuted during the opening keynote at the AI in Production conference. The company also introduced Guardrails Hub, an open source product that lets developers build, contribute, share, and re-use advanced validation techniques, known as validators.
+
+Posted February 21, 2024
+
+Oracle Assists Global Supply Chains with New Logistics Capabilities
+Oracle is introducing new logistics capabilities within Oracle Fusion Cloud Supply Chain & Manufacturing (SCM) to help organizations increase the efficiency of global supply chains. According to the company, the updates to Oracle Transportation Management and Oracle Global Trade Management, part of Oracle Cloud SCM, will help customers optimize logistics operations by increasing visibility, reducing costs, automating regulatory compliance, and improving decision-making.
+
+Posted February 21, 2024
+
+Oracle Autonomous Database Receives New AI Integrations
+Oracle is embedding AI into its full-stack, including its databases, with cutting-edge innovations for integrating AI and advanced machine learning into applications.
+
+Posted February 21, 2024
+
+Oracle Introduces Enterprise Communications Platform
+Oracle is bringing real-time communications to its suite of industry cloud applications with the introduction of the Enterprise Communications Platform (ECP). By connecting Oracle industry applications to networks and IoT devices to extend their value, ECP enables organizations to reimagine how they do business, according to the company.
+
+Posted February 21, 2024
+
+Collaboration Is Required for Compliance
+Before talking about its impact, it makes sense to first define what is meant by the term "regulatory compliance." There are two components: regulatory and compliance. Regulatory refers to regulations, which are governmental, and business rules and laws. Regulations may exist for specific industries, countries, jurisdictions, and practices. Compliance refers to following the directives of the regulations as they apply to your business operations.
+
+Posted February 21, 2024
+
+SigScalr Emerges from Stealth with $1.76M in Funding to Supercharge the Observability Space
+SigScalr, a unified observability SaaS solution purpose-built to process large volumes of observability data, is emerging from stealth along with closing a $1.76 million pre-seed round to help address the rampant cost inflation in enterprise application observability. The funds will enable SigScalr to launch its open-source software (OSS) product SigLens, a column-oriented database built from scratch for observability, according to SigScalr.
+
+Posted February 20, 2024
+
+Alation Creates Assessment to Quantify How a Mature Data Culture Contributes to Digital Transformation
+Alation, Inc., the data intelligence company, is introducing the Data Culture Maturity Assessment to help organizations measure the value of their data culture, applying the four core tenets of the Alation Data Culture Maturity Model—Data Search & Discovery, Data Governance, Data Literacy, and Data Leadership.
+
+Posted February 20, 2024
+
+Unlocking the Potential of Generative AI in IoT
+For the past year, my team has been exploring the value that generative AI can add to Internet of Things (IoT) platforms. The reason is simple: as IoT continues to evolve, addressing challenges related to mass connectivity and device management, the need for a forward-looking perspective on the future of IoT platforms becomes more apparent. Use cases like predictive maintenance indirectly highlight this need for advanced functionality. While device management remains fundamental, enabling such use cases requires practical capabilities such as machine learning and AI.
+
+Posted February 15, 2024
+
+UnifyCloud Now Supports Cloud Transformation on AWS
+UnifyCloud, a leading provider of cloud modernization and transformation solutions, is expanding its CloudAtlas platform to include comprehensive support for Amazon Web Services (AWS). With this enhancement, UnifyCloud now offers a unified solution for cloud transformation across all three major cloud platforms—Azure, Google Cloud, and AWS.
+
+Posted February 14, 2024
+
+Big Data Articles
+MongoDB Releases Atlas Stream Processing in Public Preview
+MongoDB announced that Atlas Stream Processing is now in public preview, allowing developers the flexibility and ease of use of the document model alongside the Query API. With Atlas Stream Processing, MongoDB is bringing these same foundational principles to stream processing. Atlas Stream Processing is redefining the experience of aggregating and enriching streams of high velocity, rapidly changing event data, and unifying how to work with data in motion and at rest, according to the company.
+
+Posted February 14, 2024
+
+Perforce Agrees to Acquire Delphix
+Perforce Software announced it has signed a definitive agreement to acquire Delphix, a best-in-class leader in enterprise data management solutions. The Delphix platform virtualizes data and ultimately reduces storage footprints, benefitting sustainability and operational costs. Furthermore, it works across a wide variety of customers' environments, from mainframes to Oracle databases, ERP applications, multi-cloud, and containerized environments.
+
+Posted February 14, 2024
+
+VAST Data and Run:ai Collaborate to Optimize Resource and Data Management for End-To-End AI Pipelines
+VAST Data, the AI data platform company, is partnering with Run:ai, a leader in compute orchestration for AI workloads, to redefine AI operations at scale by offering a full-stack solution encompassing compute, storage, and data management. Together, VAST and Run:ai are addressing the critical needs of enterprises embarking on large-scale AI initiatives, according to the company.
+
+Posted February 13, 2024
+
+CloudBolt Software Offers Next-Generation Augmented FinOps Capabilities
+CloudBolt Software, The Cloud ROI Company and leader in cloud financial management, is releasing a series of Augmented FinOps capabilities coming throughout 2024 aimed at redefining the FinOps landscape. Leveraging advancements in AI and ML, and industry-leading orchestration, CloudBolt aspires to extend FinOps capabilities to any cloud at every stage of the resource lifecycle. These advancements stand to help place value at the center of all cloud decisions for all users, according to the company.
+
+Posted February 12, 2024
+
+Deloitte Collaborates with Informatica and Workiva to Simplify the Management of Environmental and Social Governance
+Deloitte is expanding its alliances with Informatica and Workiva to support clients as they build the implementation of their environmental, social, and governance (ESG), and data management capabilities. Combining Informatica's AI-powered Intelligent Data Management Cloud platform, Workiva's cloud-based regulatory reporting offering and Deloitte's deep technology, operational and domain experience, the new ecosystem's integrated reporting solution can help clients accelerate ESG deployments and reporting with accurate, verifiable data to align to regulatory requirements empower agility, according to the companies.
+
+Posted February 12, 2024
+
+Qmulos Modernizes the Security and Compliance Process with Q-Compliance Core
+Qmulos, a next-generation compliance, security, and risk management automation provider, is unveiling Q-Compliance Core, providing an on-ramp to continuous compliance for companies that are looking to start their migration away from legacy GRC solutions and manual spreadsheets.
+
+Posted February 12, 2024
+
+AppOmni Opens New Data Center in Australia
+AppOmni, provider of SaaS security posture management (SSPM), is establishing a new data center in Sydney, Australia, hosted by Google Cloud Platform (GCP). This new initiative brings AppOmni's comprehensive SaaS security solutions to any organization—private or public—required to comply with Australia's data sovereignty regulations, including the Privacy Act and the Australian Privacy Principles.
+
+Posted February 12, 2024
+
+Cisco and NVIDIA to Help Enterprises Quickly and Easily Deploy AI Infrastructure Solutions for the Data Center
+Cisco and NVIDIA are partnering on plans to deliver AI infrastructure solutions for the data center that are easy to deploy and manage, enabling the massive computing power that enterprises need to succeed in the AI era. Cisco, with its industry-leading expertise in Ethernet networking and extensive partner ecosystem, together with NVIDIA, the inventor of the GPU that fueled the AI boom, share a vision and commitment to help customers navigate the transitions for AI with highly secure Ethernet-based infrastructure, according to the companies.
+
+Posted February 12, 2024
+
+IBM LinuxONE 4 Express Provides Cyber Resilient Hybrid Cloud and AI Platform
+IBM announced the release of IBM LinuxONE 4 Express, extending the latest performance, security, and AI capabilities of LinuxONE to small and medium sized businesses and within new data center environments. According to IBM, the pre-configured rack mount system is designed to offer cost savings and to remove client guess work when spinning up workloads quickly and getting started with the platform to address new and traditional use cases such as digital assets, medical imaging with AI, and workload consolidation.
+
+Posted February 12, 2024
+
+Red Hat Expands Java Support in the Cloud
+Red Hat, Inc., a provider of open source solutions, is releasing Red Hat JBoss Enterprise Application Platform (JBoss EAP) 8, introducing security enhancements, improved cloud workflow tools, and compatibility with Jakarta EE 10, contributing to streamlined application modernization for customers and continued support for enterprise Java application development.
+
+Posted February 12, 2024
+
+Collaboration Is Required for Compliance
+Before talking about its impact, it makes sense to first define what is meant by the term "regulatory compliance." There are two components: regulatory and compliance. Regulatory refers to regulations, which are governmental, and business rules and laws. Regulations may exist for specific industries, countries, jurisdictions, and practices. Compliance refers to following the directives of the regulations as they apply to your business operations.
+
+Posted February 12, 2024
+
+Qualys Introduces TotalCloud 2.0 with TruRisk Insights to Eliminate Cyber Risk in Cloud and SaaS Applications
+Qualys, Inc., a provider of disruptive cloud-based IT, security, and compliance solutions, is launching TotalCloud 2.0, delivering a single prioritized view of cloud risk and extending its protection to SaaS applications. TotalCloud 2.0 with TruRisk Insights provides a single, prioritized view of cloud risk.
+
+Posted February 09, 2024
+
+SQream and Dataiku Collaborate to Provide Powerful Big Data Analytics
+SQream, the scalable GPU data analytics platform, is partnering with Dataiku, the platform for everyday AI, to offer a strategic integration that brings together SQream's big data analytics technology with Dataiku's flexible and scalable data science and machine learning (ML) platform.
+
+Posted February 09, 2024
+
+AI Safety Institute Launches, Leading Companies Join Consortium
+The Biden administration officially named a top White House aide as the director of the newly established safety institute for artificial intelligence. Elizabeth Kelly will lead the AI Safety Institute at the National Institute for Standards and Technology, which will be part of the Commerce Department. Already several top companies in the AI space are pledging their involvement, joining a new safety consortium to play a part in supporting the safe development of generative AI.  
+
+Posted February 08, 2024
+
+The Undiscovered Paragon of Cloud Cost Optimization
+Public cloud has skyrocketed to become the indisputable go-to destination for new IT workloads, especially for data. And while the cloud is full of advantages over on-premises data platforms, cost optimization rarely makes that list. Since modern data professionals' roles encompass building and maintaining this platform, they should also be aware of how to objectively reduce the data platform costs to eliminate this enormous, missed business opportunity.
+
+Posted February 08, 2024
+
+2024: MultiValue Adapts to Change
+The past year saw AI go from a pipe dream to a reality. Businesses are rushing to do what they can to integrate automation into their systems and offer their own AI technology, leading to increased security, tapping into the cloud, and more. As 2024 begins, DBTA presents the annual MultiValue Special Report and asks MV executives to address several questions.
+
+Posted February 08, 2024
+
+A New Era of Data Management Architectures: Cloud and Beyond
+The momentous transformation putting data managers and their systems at the helm of modern enterprises has only begun. Industry leaders and experts agree that it's critical for data managers and team leaders to design today's data architectures to meet the demands of a digital economy, from cloud to real-time streaming to AI.
+
+Posted February 08, 2024
+
+RESEARCH@DBTA: Data Issues Complicate Generative AI Initiatives, Survey Shows
+Both operational and generative AI depend on distilling reliable data sources. A new survey, however, finds they are being overwhelmed by data sources and providing the data needed to deliver insights. In a survey of 600 chief data officers and data professionals released by Informatica, 41% admit they're juggling 1,000 or more data sources. A number, 79%, expect to increase in 2024.
+
+Posted February 08, 2024
+
+Overcoming the Chaos of Data Connectivity in Government
+Much like organizations in every sector, federal government agencies run on data. The universal challenge of dealing with massive amounts of data every day, while leveraging the right data at the right time, is also very much front and center for government agencies. Amid the growth of computing platforms, mobile devices, and cloud environments, government agencies have steadily added new systems and capabilities, but they've often integrated those systems on an ad hoc basis—as point solutions to address specific needs.
+
+Posted February 08, 2024
+
+The Case of the Missing Fact
+In far too many organizations, processes become automatic. Requests are made, and requests are fulfilled. People wish to please; they like to show how fast they can respond or how agile they are. The same is true when addressing database design. This delivery-focused desire comes from a good place. However, regardless of how well-intended, blindly fulfilling requests is dangerous and harmful to one's overall results. Optimization of processes, especially processes involving database design, should never remove the step where questions are asked and rationale is provided.
+
+Posted February 08, 2024
+
+Large Language Models May Have Unacceptable Carbon Footprints
+The remarkable and rapid uptake of ChatGPT and similar large language model (LLM)-based AIs may be driving the biggest increase in demand for computing power since the advent of the internet. The neural networks that power LLM AI solutions, such as ChatGPT, rely on massively parallel processing. This processing is similar in some respects to the massively parallel graphics processing that was demanded in the past by computer games.
+
+Posted February 08, 2024
+
+RDM Infinity Hires Tim Rude to Mentor the Next Generation of MV Developers
+RDM Infinity, one of the fastest-growing private companies in the Rocky Mountain region, announced that industry veteran Tim Rude will join its team of MultiValue developers to help attract emerging MV developer talent. "Tim doesn't just know MultiValue software—he helped bring it to where it is today," said Brandon Robinson, head geek at RDM Infinity. "He has years of hands-on, behind-the-scenes experience as one of the chief developers behind the most important tools in our industry. And our growing team will see the benefits." 
+
+Posted February 08, 2024
+
+Deloitte’s Recent Acquisition Expands Analytics Practice with Deep Learning Models and Next-Generation AI Solutions
+Deloitte is acquiring the operations of OpTeamizer, an AI, generative AI, and accelerated computing company specializing in the development and implementation of AI solutions running on NVIDIA accelerated computing. With the acquisition, Deloitte expands its high-performance computing engineering capabilities, helping clients harness the power of generative AI, supercomputers, and edge AI to increase automation, optimize business processes, and realize greater business value, according to the company.
+
+Posted February 07, 2024
+
+It’s Time to Submit Nominations for DBTA’s Readers’ Choice Awards
+Now you can submit nominations for the annual Database Trends and Applications Readers' Choice Awards, a competition in which the winning information management solutions, products, and services are selected by you, the users. The nominations period is open through March 6, 2024, followed by actual voting on the products nominated by our readers.
+
+Posted February 07, 2024
+
+Oracle Expands Footprint, Plans to Open a Public Cloud Region in Kenya
+To meet the growing demand for Oracle Cloud Infrastructure (OCI) services across Africa, and as part of its global cloud infrastructure, Oracle is planning to open a public cloud region in Nairobi, Kenya. OCI's cloud architecture enables Oracle to offer its full suite of more than 100 hyperscale cloud services. The Government of Kenya and private sector can leverage this to increase ease of doing business in Kenya, according to Oracle.
+
+Posted February 07, 2024
+
+Oracle Embeds Generative AI Across the Technology Stack
+Oracle is announcing the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service, along with introducing new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI. OCI Generative AI service is a fully managed service that integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases, according to Oracle.
+
+Posted February 07, 2024
+
+SmarTone Selects Oracle to Transform and Adopt Cloud-Based Charging and Billing System
+SmarTone Telecommunications Holdings Limited (SmarTone) announced it has chosen Oracle to transform its Business Support Systems (BSS). By upgrading its legacy solutions to bring prepaid charging and postpaid billing onto one unified, cloud native platform, Oracle Cloud Scale Charging and Billing will enable SmarTone to efficiently launch and scale differentiated offerings, according to the company.
+
+Posted February 07, 2024
+
+Franz Announces New Version of its Knowledge Graph Visualization App
+Franz Inc., an early innovator in artificial intelligence (AI) and leading supplier of knowledge graph technology for Neuro-Symbolic AI applications, is introducing Gruff 9, a web-based advanced knowledge graph visualization tool that offers LLM integration and unique RDF* (RDFStar) features for building next-generation AI applications. 
+
+Posted February 06, 2024
+
+PlainID Looks to Tackle Identity Security Challenges in 2024
+PlainID, the leading global provider of Identity Security, is announcing new product additions to its portfolio after capping off a successful 2023. In 2024, PlainID plans to launch several new SaaS-based authorizers designed to improve the manageability and overall security posture of SaaS-based applications via policy orchestration, including authorizers for Zscaler, Snowflake, and Google Big Query.
+
+Posted February 05, 2024
+
+iboss Delivers Security for Organizations Using Generative AI with the Newly Released ChatGPT Risk Module
+iboss, a provider of cloud-delivered cybersecurity, is releasing its ChatGPT Risk Module, an innovative addition to its Zero Trust Security Service Edge (SSE) solution specifically designed to monitor and secure user interactions with ChatGPT, a leading artificial intelligence technology, to ensure unparalleled data security and compliance.
+
+Posted February 05, 2024
+
+Graylog Introduces Free API Security Tool, Expands Access to Discovery and Threat Monitoring
+Graylog, a provider of Security Information and Event Management (SIEM) and log management solutions, is providing a free version of Graylog API Security, making API security accessible to enterprises of all sizes at a time when API-related attacks are on the rise.
+
+Posted February 02, 2024
+
+fuseproject Partners with Functionland to Create Decentralized Cloud Storage Alternative
+fuseproject, Yves Béhar's multidisciplinary design firm, and startup Functionland are partnering to offer FxBlox, a physical hardware device that allows users to store fully encrypted data, files, and photos—tapping into secure, user-owned, decentralized storage.
+
+Posted February 01, 2024
+
+Qumulo and Superna Collaborate on Real-Time Ransomware Protection
+Qumulo, the simple way to manage exabyte-scale data anywhere, is releasing Superna Data Security Edition for Qumulo, making Superna's industry-leading Ransomware Defender solution available to automate real-time detection of malicious behaviors, false-positives, and other events consistent with ransomware access patterns for both SMB and NFS files.
+
+Posted February 01, 2024
+
+Kubecost 2.0 Surfaces More Real-Time Data for Cloud Cost Optimization
+Kubecost, the comprehensive solution for monitoring, managing, and optimizing Kubernetes spend at scale, is launching Kubecost 2.0, providing new tools and capabilities purpose-built to monitor and optimize Kubernetes-related cloud expenses even more easily and significantly.
+
+Posted January 31, 2024
+
+TELUS International and Morpheus Data Partner to Deliver Agile Hybrid Cloud Platform Operations
+TELUS International, a digital customer experience (CX) innovator, today announced a strategic partnership with Morpheus Data, a pioneer in software for hybrid cloud management and platform operations, strengthening TELUS International's robust suite of cloud management solutions to further elevate end-to-end digital transformations for its clients.
+
+Posted January 31, 2024
+
+Zilliz Cloud Delivers on the Promise of a Quantum Leap in Vector Database Experience
+Zilliz Inc., a trailblazer in vector database technology, is unveiling the latest version of Zilliz Cloud, aiming to set a new standard for real-time AI applications. As a fully managed vector database, leveraging the cloud-native open-source Milvus vector database, Zilliz Cloud now redefines the essence of speed, performance, and developer satisfaction.
+
+Posted January 30, 2024
+
+Coxwave Raises $3.5M to Debut its Product Analytics Platform, AlignAI, in the US
+Coxwave, the analytics infrastructure empowering builders to create AI-native products, announced it has raised $3.5 million from a recent funding round, equipping the company to invest heavily in building its core analytics infrastructure platform, Align AI, while enabling it to serve global customers.
+
+Posted January 30, 2024
+
+Deep Instinct Strengthens File Upload Protection
+Deep Instinct, the prevention-first cybersecurity company, is releasing Deep Instinct Prevention for Applications (DPA) v3.0, adding enhanced file upload protection and application storage security capabilities in disconnected or air-gapped environments.
+
+Posted January 30, 2024
+
+Hitachi Vantara and Kyndryl Partner to Support Data Storage Offerings
+Hitachi Vantara is partnering with Kyndryl in a strategic move aimed at advancing data storage offerings to provide customers the top-tier solutions that meet today's evolving digital landscape. Hitachi Vantara has taken the next step in its ongoing collaboration with Kyndryl, reaching a significant milestone with the addition of its technology to Kyndryl's Private Cloud Services portfolio. This allows Hitachi Vantara to offer storage platforms to Kyndryl customers seeking data center technology, according to the company.
+
+Posted January 26, 2024
+
+Google Cloud and Hugging Face Expand Collaboration to Propel Generative AI and ML Development
+Google Cloud and Hugging Face are forming a new strategic partnership that will allow developers to utilize Google Cloud's infrastructure for all Hugging Face services, and additionally will enable training and serving of Hugging Face models on Google Cloud. 
+
+Posted January 26, 2024
+
+Cato Networks Expands the SASE Cloud Platform with Incident Response Tools
+Cato Networks, a leader in SASE, is expanding the Cato SASE Cloud platform with threat detection and incident response, introducing Cato XDR—a SASE-based, extended detection and response (XDR) solution. Available immediately, Cato XDR utilizes the functional and operational capabilities of the Cato SASE Cloud to overcome the protracted deployment times, limited data quality, and inadequate investigation and response experience too often associated with legacy XDR solutions, according to the company.
+
+Posted January 25, 2024
+
+Anomalo Secures $33M in Funding to Support Increasing Demand for its Data Quality Platform
+Anomalo, the complete data quality platform company, announced it has raised $33 million in Series B funding, enabling the company to continue to advance its platform and scale both engineering and go-to-market teams to support record demand for its platform.
+
+Posted January 25, 2024
+
+AllegroGraph Cloud Provides Knowledge Graphs-as-a-Service for Neuro-Symbolic AI applications
+Franz Inc., an early innovator in artificial intelligence (AI) and leading supplier of graph database technology, is launching AllegroGraph Cloud, a hosted version of Franz's Neuro-Symbolic AI platform. According to the company, AllegroGraph Cloud provides users a convenient and easy on-ramp to build advanced AI applications.
+
+Posted January 25, 2024
+
+Commvault Cloud Boasts New Cyber Resilience Features
+Commvault is introducing its latest platform enhancements, offering "true cloud cyber resilience" to protect sensitive data. Commvault Cloud offers a multi-layered approach to enabling cyber resilience, safeguarding businesses from a wide spectrum of threats, including ransomware, malware, and natural disasters. According to the company, with Commvault Cloud, businesses can rest assured that their data is safe, secure, and recoverable, empowering them to navigate the digital landscape with confidence.
+
+Posted January 25, 2024
+
+Cohesity Cloud Services Adds Extensive Support for Microsoft Azure
+Cohesity announced it is offering new capabilities to protect an organization's data in Microsoft Azure. Cohesity Cloud Services now supports the backup and recovery of Azure Virtual Machines (VMs), Azure SQL databases, in addition to the existing support for Microsoft 365 data. In addition, Cohesity Cloud Services in Microsoft Azure is available in multiple regions around the world.
+
+Posted January 25, 2024
+
+Fortifying the Fortress: Do’s and Don’ts of Strengthening SAP Cybersecurity
+Cybersecurity is more crucial than ever, especially for enterprise applications running the SAP platform. Why put a spotlight on SAP platforms? Because SAP platforms are used by 99 of the Fortune 100 companies and have more than 280 million cloud subscribers worldwide. Many companies run SAP ERP, SAP SRM, and SAP HCM environments while simultaneously moving SAP implementations to the cloud. Due to the massive scaling of SAP systems, organizations are losing track of their vulnerability as hyperscalers, SaaS models, on-prem, and cloud-based systems continue to expand the attack surface.
+
+Posted January 25, 2024
+
+Keeper Security Adds Support for Single Two-Factor Authentication
+Keeper Security, a provider of zero-trust and zero-knowledge cybersecurity software, is introducing support for hardware security keys as a single Two-Factor Authentication (2FA) method. This is the latest enhancement to Keeper's solutions, on the heels of announcing Granular Sharing Enforcements for its platform.
+
+Posted January 24, 2024
+
+Catchpoint Unveils Test Suite for Google Cloud to Ensure Performance and Uptime
+Catchpoint, The Internet Resilience Company, is releasing Test Suite for Google Cloud, a tool designed to ease the end-to-end monitoring of Google Cloud services from different endpoints including customer premises, other public clouds, and Internet endpoints. According to the company, this suite is specifically developed to streamline the configuration and management of cloud service tests, thereby providing immediate benefits in operational performance and user experience.
+
+Posted January 24, 2024
+
+SAP Announces Further Investment in Partner Learning to Boost SAP Experts
+SAP is enhancing the partner experience, offering curated SAP Learning Journeys, exclusive access to events and subject matter experts, plus the opportunity to earn valuable credentials. The partner experience on SAP Learning can provide hands-on interaction designed to help build skills using practical scenarios. Additionally, the newly launched platform can give SAP partner learners access to the right resources for a significantly reduced price per user per year—including certifications. 
+
+Posted January 24, 2024
+Big Data Articles
+McKinsey and SAP Expand Partnership to Accelerate GenAI Transformation  
+McKinsey and SAP are partnering on a new generative AI collaboration that expands on its long-standing strategic alliance. The new offering, the Generative Enterprise, aims to unlock synergies between SAP Business AI and QuantumBlack, AI by McKinsey to help leaders bring the Generative Enterprise to life and build sustainable, resilient, and adaptive businesses, according to the companies.
+
+Posted January 24, 2024
+
+SAP Provides New AI-Driven Retail Capabilities
+SAP is offering new AI-driven capabilities to help retailers optimize business processes and drive profitability and customer loyalty. These innovative capabilities, from planning to personalization, will provide retailers with holistic customer insights and data analysis to adapt and thrive amid rapid market changes, according to SAP.
+
+Posted January 24, 2024
+
+Knoa Software and SAP Signavio Partner to Provide Task Mining for Business Observability
+Knoa Software announced it is SAP Signavio's new Solution Extension (SOLEX) partner, further solidifying SAP's dedication to meeting the dynamic demands of the market. SAP User Experience Management by Knoa is a solution that, in combination with SAP Signavio solutions, provides end-to-end visibility into process execution.
+
+Posted January 24, 2024
+
+Fortifying the Fortress: Do’s and Don’ts of Strengthening SAP Cybersecurity
+Cybersecurity is more crucial than ever, especially for enterprise applications running the SAP platform. Why put a spotlight on SAP platforms? Because SAP platforms are used by 99 of the Fortune 100 companies and have more than 280 million cloud subscribers worldwide. Many companies run SAP ERP, SAP SRM, and SAP HCM environments while simultaneously moving SAP implementations to the cloud. Due to the massive scaling of SAP systems, organizations are losing track of their vulnerability as hyperscalers, SaaS models, on-prem, and cloud-based systems continue to expand the attack surface.
+
+Posted January 24, 2024
+
+RDM Infinity Hires Tim Rude to Mentor the Next Generation of MV Developers
+RDM Infinity, one of the fastest-growing private companies in the Rocky Mountain region, announced that industry veteran Tim Rude will join its team of MultiValue developers to help attract emerging MV developer talent. "Tim doesn't just know MultiValue software—he helped bring it to where it is today," said Brandon Robinson, head geek at RDM Infinity. "He has years of hands-on, behind-the-scenes experience as one of the chief developers behind the most important tools in our industry. And our growing team will see the benefits." 
+
+Posted January 24, 2024
+
+Rocket Software Releases Enhanced Version of Rocket jBASE with Upgraded Security Features
+Rocket Software is releasing jBASE 6.1.1, introducing new security features and more than 22 bug fixes. The Rocket jBASE solution is an object-oriented integrated database and application development environment designed for transactional and analytical database applications.
+
+Posted January 24, 2024
+
+Zumasys Debuts AI Assistant for Rover ERP and Rover Business Suite
+Zumasys is introducing a new AI feature to its Rover ERP and Rover Business Suite (RBS), offering instant access to a specialized in-house expert, always ready to assist with a wide range of tasks. Rover AI is the new innovative AI assistant for Rover ERP and RBS. It acts as a personal expert, available at a moment's notice to answer questions, synthesize information, generate reports, and more.
+
+Posted January 24, 2024
+
+Metadata Management Challenges
+Earlier in 2023, we discussed The Importance of Metadata here in the DBA Corner column. And, indeed, metadata is more important than ever before because it helps us to understand our data. Data without metadata lacks meaning, making it difficult to be used. Metadata gives data its form and makes it usable by your organization.
+
+Posted January 24, 2024
+
+Keepit Launches the Keepit Partner Network, Pivots to a ‘Partner Only’ Strategy
+Keepit, a global provider of cloud backup and recovery solutions, is debuting the Keepit Partner Network, reinforcing its commitment to a "partner first" approach, and evolving it into "partner only" strategy. According to the company, this move is a testament to Keepit's successful growth trajectory, reflecting its stability, and dedication to empowering partners for unparalleled success.
+
+Posted January 23, 2024
+
+Ontotext GraphDB is Now Available on Microsoft Azure
+Ontotext, a semantic knowledge graph provider, announced that its flagship product, GraphDB, is now available on the Microsoft Azure Marketplace, enabling enterprises to streamline the global deployment of graph databases and facilitating the migration of on-premises data to Azure and other prominent public cloud platforms.
+
+Posted January 23, 2024
+
+Chronosphere Acquires Calyptia to Boost Observability Pipeline Solutions
+Chronosphere, a leading cloud native observability platform, is acquiring Calyptia, a provider of observability pipeline solutions, to integrate Calyptia's core technology, which provides log transformation and optimization capabilities, into the company's cloud native observability platform.
+
+Posted January 23, 2024
+
+Cohesity Announces Several DSPM Partnerships to Further Improve Security Posture Across Clouds
+Cohesity is increasing data resilience with its latest Data Security Posture Management (DSPM) partnerships. Cohesity recently entered into a partnership with seven leading DSPM vendors to help organizations increase resilience for their most critical data. These organizations include including our long-standing partner BigID, as well as Cyera, Dig Security, Normalyze, Sentra, Securiti, and Concentric AI.
+
+Posted January 22, 2024
+
+Oleria Raises $33M in Funding Round to Supercharge Autonomous Identity Security
+Oleria, a company providing adaptive and autonomous identity security solutions, announced it has secured $33 million in a Series A funding round, enabling the company to increase hiring to accelerate its product innovation, including AI capabilities, as well as its go-to-market strategy. This latest investment, which brings the company's total funding to over $40 million, is led by Evolution Equity Partners with participation from Salesforce Ventures, Tapestry VC, and Zscaler.
+
+Posted January 22, 2024
+
+Seagate Technology Releases Sustainable Hard Drives for Hyperscale Data Centers
+Seagate Technology, a provider of sustainable mass-data storage solutions, is launching the Mozaic 3+ hard drive platform—which incorporates Seagate's trailblazing implementation of Heat-Assisted Magnetic Recording (HAMR) technology. According to the company, this is a milestone release that marks a new era in the storage industry. The launch heralds unparalleled areal densities of 3TB+ per platter—and a roadmap that will achieve 4TB+ and 5TB+ per platter in the coming years.
+
+Posted January 22, 2024
+
+IBM to Acquire Application Modernization Abilities from Advanced
+IBM announced that it has signed a definitive agreement to acquire application modernization capabilities from Advanced, bringing a combination of talent, tools, and knowledge to enhance IBM Consulting's mainframe application and data modernization services. The planned acquisition will further enable IBM to support clients' mainframe application modernization journeys, marking another important step forward in IBM's hybrid cloud and AI strategy, according to the company.
+
+Posted January 22, 2024
+
+Flexential Reveals Flexential Fabric to Revolutionize the Data Center and Colocation Space
+Flexential, a provider of secure and scalable data center solutions, is unveiling Flexential Fabric, a next generation solution designed to deliver advanced, software-defined interconnection services. According to the company, Flexential Fabric supports both IP transit and private transport through a single port, marking it the first in the industry with dual capabilities seamlessly integrated into one port.
+
+Posted January 22, 2024
+
+Don’t Let Your Tools Lull You to Sleep!
+When I was in high school, a little German lady would show up as a substitute teacher for almost any subject. Apparently, she had a very broad skill set. As I mentioned this was high school, eventually we students would become disruptive, unruly, loud—generally annoying—and our substitute teacher would give us "the speech," spending what I recall as far too much time explaining to us that "knowledge is power" and how we would be better served by changing our attitudes. At the time I did not believe her exhortations had any impact on 15-or-so year old me, but over the years it turns out she did.
+
+Posted January 22, 2024
+
+Braving the AI Era: Tech and Strategies for Surfacing Tangible AI Value
+Experts in data and the AI era joined DBTA's webinar, Modernizing Your Data Management Strategy for the AI Era, to examine the ways in which IT leaders and data management teams can effectively implement advanced tech in cloud computing, analytics, and AI in the face of the growing size and complexity of their data ecosystems.
+
+Posted January 19, 2024
+
+Third Wave Innovations and PCS Collaborate to Offer Holistic Cybersecurity
+Third Wave Innovations, a risk solutions provider for network and security operations, is partnering with Precision Computer Services (PCS), a nationally recognized IT systems integrator, to provide integrated, holistic cybersecurity services. Through this new partnership, PCS will be offering Third Wave Innovations Managed Detection and Response (MDR), Managed Security Information and Event Management (SIEM), and Attack Surface Management (ASM) to its growing portfolio of clients.
+
+Posted January 19, 2024
+
+Synopsys Aims to Acquire Ansys, Creating Innovative Design Solutions
+Synopsys is entering a definitive agreement to acquire Ansys, bringing together Synopsys' pioneering semiconductor electronic design automation (EDA) with Ansys' broad simulation and analysis portfolio to create a leader in silicon to systems design solutions. Combining Synopsys' EDA technology with Ansys' established simulation and analysis capabilities can provide customers a comprehensive, powerful, and system-focused approach to innovation, according to the companies.
+
+Posted January 18, 2024
+
+Kusari Secures $8M in Funding to Develop Transparent Software Supply Chain Security
+Kusari, a software supply chain security startup, announced it raised $8 million through combined investments in pre-seed and seed round funding, empowering the company to increase transparency within the software supply chain. Kusari will use the funding to accelerate and build on its continued momentum in developing software supply chain security solutions that enable organizations to achieve actionable insights, reduce incident response costs, and relieve the burden on security and developer teams.
+
+Posted January 18, 2024
+
+CockroachDB’s Latest Enhancements Focus on Resilience
+Cockroach Labs is releasing the next version of its signature platform, CockroackDB, introducing new tools and capabilities such as a live database migration service, enhanced disaster recovery, and increased performance through smarter data distribution. Other new CockroachDB 23.2 features include simplified migrations with read committed isolation; physical replication for fast recovery from cloud failures; and added support for Stored Procedures/UDFs.
+
+Posted January 18, 2024
+
+DigitalOcean and NVIDIA Expand Access to AI Compute for Startups and Growing Digital Businesses
+DigitalOcean, the developer cloud optimized for startups and growing digital businesses, is offering the virtualized availability of NVIDIA H100 Tensor Core GPUs on its Paperspace platform, providing access to one of the market's powerful GPUs. According to the company, this provides startups and growing digital businesses with state-of-the-art infrastructure crucial for developing the next generation of artificial intelligence/machine learning (AI/ML) applications.
+
+Posted January 18, 2024
+
+Your Right to Outsource Oracle Support Battles On
+In 2005, "The Terminator," also known as Arnold Schwarzenegger and later "The Governator," uttered the famous catchphrase "I'll be back." Twenty years later, reflecting on the slogan "I'll be back," it could easily be applied to the current legal battle and decades-long saga between Rimini Street and Oracle. Yet it should not be surprising that this battle continues. More importantly, as this battle rages on, your right to use third-party support alternatives from any vendor is under fire.
+
+Posted January 18, 2024
+
+Who Says the Future Is Inevitable? The Shift to Bandwidth on Demand Can Future-Proof Your Network Against the Challenges of Tomorrow
+If you already know what your business will look like a year from now—what the market demand will be, how your customers will respond, and the technologies that will be available to serve them—then you can stop reading now. For the rest of you who struggle with delivering the right networking solutions and applications—at the right time, in the right place, and at the best cost—read on!
+
+Posted January 17, 2024
+
+AllegroGraph Cloud Provides Knowledge Graphs-as-a-Service for Neuro-Symbolic AI applications
+Franz Inc., an early innovator in artificial intelligence (AI) and leading supplier of graph database technology, is launching AllegroGraph Cloud, a hosted version of Franz's Neuro-Symbolic AI platform. According to the company, AllegroGraph Cloud provides users a convenient and easy on-ramp to build advanced AI applications.
+
+Posted January 17, 2024
+
+Databricks Delivers Suite of Pre-Built Solutions Tailored to Telecommunications and Network Service Providers
+Databricks, the data and AI company, is introducing the Data Intelligence Platform for Communications, a unified data and AI platform tailored for telecommunications carriers and network service providers. With the Data Intelligence Platform for Communications, Communication Service Providers (CSPs) benefit from a unified foundation for their data and AI, and can gain a holistic view of their networks, operations, and customer interactions without sacrificing data privacy or confidential IP, according to Databricks.
+
+Posted January 17, 2024
+
+Governing Novelty
+Generative AI (GenAI) and large language models (LLMs) burst into the corporate and public consciousness this past year like confetti from a carnival cannon or the glitter from a child's art project. Beyond splashy headlines, discussions of imminent opportunity and threat permeated into every organizational crevasse overnight, or so it seemed from the general public's point of view. And while the technical underpinnings were not all that new, the resultant capabilities of these gargantuan models certainly surprised most.
+
+Posted January 17, 2024
+
+More Retailers Unlock Data to Drive Growth with Oracle NetSuite
+Oracle announced that more retailers are using Oracle NetSuite to unlock value from their data, increase efficiency, and remain competitive. With NetSuite Analytics Warehouse, NetSuite customers including Feetures, Hudson&Canal, Thread, and many others have gained the insights needed to improve customer experiences and grow their businesses, according to the company.
+
+Posted January 17, 2024
+
+SwXtch.io Offers cloudSwXtch on the Oracle Cloud Marketplace
+swXtch.io LLC, a provider of multicasting software and a member of Oracle Partner Network (OPN), announced cloudSwXtch is available on Oracle Cloud Marketplace and can be deployed on Oracle Cloud Infrastructure (OCI). cloudSwXtch on the Oracle Cloud Marketplace enables advanced features not previously available on cloud networks.
+
+Posted January 17, 2024
+
+Oracle Partners with Deloitte to Help Companies Prepare for OECD Pillar Two Requirements
+Oracle is introducing new capabilities to Oracle Fusion Cloud Enterprise Performance Management (EPM) that, when paired with Deloitte's implementation services, can help multinational organizations as they manage upcoming Organization for Economic Co-operation and Development (OECD) Pillar Two tax requirements.
+
+Posted January 17, 2024
+
+Qlik Announces Rebrand to Reflect its New 'Wherever There's Data, There's Opportunity' Mission
+Qlik is unveiling a completely new brand and website, transforming beyond aesthetics to symbolize the company's evolution at the forefront of data integration, analytics, and AI. According to the company, its new identity encapsulates innovation, clarity, and agility.
+
+Posted January 16, 2024
+
+Scale Computing and RackTop Create Cyberstorage Solution for Defense Against Cyberthreats
+Scale Computing, a market leader in edge computing, virtualization, and hyperconverged solutions, and RackTop Systems, an innovative provider of data security solutions in the cyberstorage market, are collaborating to provide the RackTop BrickStor Security Platform (SP) on Scale Computing Platform (SC//Platform).
+
+Posted January 16, 2024
+
+Commvault Cloud Boasts New Cyber Resilience Features
+Commvault is introducing its latest platform enhancements, offering "true cloud cyber resilience" to protect sensitive data. Commvault Cloud offers a multi-layered approach to enabling cyber resilience, safeguarding businesses from a wide spectrum of threats, including ransomware, malware, and natural disasters. According to the company, with Commvault Cloud, businesses can rest assured that their data is safe, secure, and recoverable, empowering them to navigate the digital landscape with confidence.
+
+Posted January 15, 2024
+
+Mila Adds PASQAL to its Partner Community to Study Generative Modeling with Quantum Computing
+Mila is adding PASQAL, a global leader in neutral atom quantum computing, to its partner community, the first exploratory step toward enhancing generative modeling with quantum computing benchmarking and coupling with tensor networks. Adding to Mila's community of nearly a dozen partners in the quantum space, this collaboration also aims to gather a community of researchers and companies at Mila around the topic of quantum machine learning. This is expected to be the start of future collaborative developments on the enhancement of AI by quantum technologies, according to Mila.
+
+Posted January 12, 2024
+
+Keeper Security Streamlines Security Compliance Policies
+Keeper Security, a provider of zero-trust and zero-knowledge cybersecurity software, announced that Granular Sharing Enforcements will soon be available for all products in the Keeper platform. Granular Sharing enables administrators to enforce detailed creating and sharing permissions at the user level.
+
+Posted January 12, 2024
+
+Cohesity Cloud Services Adds Extensive Support for Microsoft Azure
+Cohesity announced it is offering new capabilities to protect an organization's data in Microsoft Azure. Cohesity Cloud Services now supports the backup and recovery of Azure Virtual Machines (VMs), Azure SQL databases, in addition to the existing support for Microsoft 365 data. In addition, Cohesity Cloud Services in Microsoft Azure is available in multiple regions around the world.
+
+Posted January 11, 2024
+
+MongoDB Atlas Auto-Index Creation
+As you may know, an index is a database object with its own storage that provides a fast access path into a collection. Indexes exist primarily to enhance performance, so using indexes effectively is paramount when optimizing MongoDB performance.
+
+Posted January 11, 2024
+
+The Top Information Management Trends for 2024
+In the year ahead, data managers and their enterprises will be at a crossroads. Organizations will be leaning more heavily than ever on data—and the teams that manage it—for success with their customers, markets, and operations. The world of data is changing rapidly, and with it, its role in the business, from sitting on databases in the back end to competitive differentiation. Data is driving everything, everywhere.
+
+Posted January 11, 2024
+
+RESEARCH@DBTA: The Data Quality Confidence Gap Keeps Widening
+Data managers, administrators, engineers, and analysts know more than anyone what kind of data is available to enterprises seeking to compete in the AI and analytics age. However, their perceptions of data quality are slipping—even though data quality has increased in importance due to the rise of analytics, AI, IoT, data monetization, and other next-generation initiatives.
+
+Posted January 11, 2024
+
+Select MultiValue Vendors Land on DBTA’s Trend-Setting Products List for 2024
+Data continues to grow and is poised to double in 2024. To help make the process of identifying useful products and services easier, each year, DBTA presents a list of Trend-Setting Products. Several MV leaders including Kore Technologies, Revelation Software, and Rocket Software continue to evolve and again top this list.
+
+Posted January 11, 2024
+
+BlueFinity Evoke Can Modernize MV Applications
+BlueFinity's Evoke platform can help modernize MV applications with enriched features that offer several advantages to the MultiValue marketplace for application modernization and new app development. The platform is designed to empower organizations with MultiValue (and DB2, Oracle, or SQL Server) database systems to modernize and extend their applications in a highly efficient and cost-effective manner.
+
+Posted January 11, 2024
+
+Accenture Eyes Acquisition of Navisite to Modernize Cloud Transformations
+Accenture announced it is entering into an agreement to acquire Navisite, a digital transformation and managed services provider, bolstering Accenture's application and infrastructure managed services capabilities to help clients modernize for the AI era by building a strong digital core and accelerating their hybrid- and multi-cloud transformations.
+
+Posted January 10, 2024
+
+iboss Helps Government Agencies Defend Against DNS Vulnerabilities
+iboss, the cloud security company that redefines network protection, is unveiling its latest capability: the Government Protective DNS Module. In a digital environment where threats continually evolve, and DNS vulnerabilities are routinely exploited, iboss' latest offering ensures that government digital assets are fortified with the gold standard of protective measures, according to the company.
+
+Posted January 10, 2024
+
+2024: The Year of the Data Product? 10 Predictions for Big Data
+AI caught everyone's attention in 2023 but with more eyes on data and analytics than ever before, it's become clear that it's not the only solution on the market that can assist companies in gaining value from their data. Here, data professionals share their data and analytics predictions for 2024.
+
+Posted January 10, 2024

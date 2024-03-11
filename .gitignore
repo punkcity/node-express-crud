@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+package-lock.json
+
+# Node.js dependencies
+node_modules/
