@@ -1,13 +1,8 @@
 import mongoose from "mongoose";
-import UserHandle from "../zz_node_test/user";
-import { printName, printEmail } from "../zz_node_test/user";
 
 const Schema = mongoose.Schema;
 
-const p1 = new UserHandle("Pankaj", "abc@gmail.com");
-printName(p1);
-printEmail(p1);
-export const ContactSchema = new Schema({
+export const PersonSchema = new Schema({
     firstName: {
         type: String,
         required: 'Enter a first name'
@@ -17,13 +12,17 @@ export const ContactSchema = new Schema({
         required: 'Enter a last name'
     },
     email: {
-        type: String
+        type: String,
+        required: 'Enter an email'
     },
     company: {
         type: String
     },
     phone: {
         type: Number
+    },
+    birthdate: {
+        type: Date
     },
     created_date: {
         type: Date,

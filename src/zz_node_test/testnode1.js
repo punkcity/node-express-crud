@@ -1,3 +1,14 @@
+// NOTE: THIS IMPORT/EXPORT WILL NOT WORK IN Node.js!! Importing Class and Functions from another file
+// import UserHandle from "./user";
+// import { printName, printEmail } from "../zz_node_test/user";
+// const p1 = new UserHandle("Pankaj", "abc@gmail.com");
+// printName(p1);
+// printEmail(p1);
+
+//INSTEAD - Could use the "require" method to import the class and functions
+//BUT They must be EXPORTED using "module.exports" and "require" method must be used to import them
+const {user} = require("../zz_node_test/user");
+
 //****NOTE***** - In Node, the gloabl object is 'global' and not 'window' as in browser
 const greet = (name) => {
     console.log(`Hello ${name}`, parseFloat("2256.34"));

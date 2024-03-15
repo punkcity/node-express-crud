@@ -1,59 +1,59 @@
 import mongoose from "mongoose";
-import { ContactSchema } from "../models/expModel";
+import { PersonSchema } from "../models/expModel";
 
-const Contact = mongoose.model('Contact', ContactSchema);
+const Person = mongoose.model('PERSON', PersonSchema);
 
-export const addNewContact = async (req, res) => {
-    let reqContact = new Contact(req.body);
+export const addNewPerson = async (req, res) => {
+    let reqPerson = new Person(req.body);
     console.log(req.body);
     try {
-        const newContact = await reqContact.save();
-        res.json(newContact);
+        const newPerson = await reqPerson.save();
+        res.json(newPerson);
     } catch (err) {
-        console.log(`ERROR WHILE CREATING NEW CONTACT IN DB ${err}`);
-        res.send("ERROR WHILE CREATING NEW CONTACT IN DB");
+        console.log(`ERROR WHILE CREATING NEW PERSON IN DB ${err}`);
+        res.send("ERROR WHILE CREATING NEW PERSON IN DB");
     }
 }
 
-export const getContacts = async (req, res) => {
+export const getPersons = async (req, res) => {
     try {
-        const contacts = await Contact.find();
-        res.json(contacts);
+        const persons = await Person.find();
+        res.json(persons);
     } catch (err) {
-        console.log(`ERROR WHILE FETCHING CONTACTS FROM DB ${err}`);
-        res.send("ERROR WHILE FETCHING CONTACTS FROM DB");
+        console.log(`ERROR WHILE FETCHING RECORDS FROM DB ${err}`);
+        res.send("ERROR WHILE FETCHING DATA FROM DB");
     }
 }
 
-export const getContactById = async (req, res) => {
+export const getPersonById = async (req, res) => {
     try {
-        const contact = await Contact.find({"_id":req.params.contactId});
-        res.json(contact);
+        const person = await Person.find({"_id":req.params.personId});
+        res.json(person);
     } catch (err) {
-        console.log(`ERROR WHILE FETCHING CONTACT BY ID ${err}`);
-        res.send("ERROR WHILE FETCHING CONTACT BY ID");
+        console.log(`ERROR WHILE FETCHING PERSON RECORD BY ID ${err}`);
+        res.send("ERROR WHILE FETCHING PERSON BY ID");
     }
 }
 
-export const updateContact = async (req, res) => {
+export const updatePerson = async (req, res) => {
     try {
-        const filter = {"_id":req.params.contactId};
+        const filter = {"_id":req.params.personId};
         const update = req.body;
-        const contact = await Contact.findOneAndUpdate(filter, update, {new: true});
-        res.json(contact);
+        const person = await Person.findOneAndUpdate(filter, update, {new: true});
+        res.json(person);
     } catch (err) {
-        console.log(`ERROR Updating Contact filtered by ID ${err}`);
-        res.send("ERROR Updating Contact filtered by ID");
+        console.log(`ERROR Updating Person filtered by ID ${err}`);
+        res.send("ERROR Updating Person record filtered by ID");
     }
 }
 
-export const deleteContact = async (req, res) => {
+export const deletePerson = async (req, res) => {
     try {
-        const response = await Contact.deleteOne({"_id":req.params.contactId});
+        const response = await Person.deleteOne({"_id":req.params.personId});
         res.json(response);
     } catch (err) {
-        console.log(`ERROR WHILE DELETING CONTACT BY ID ${err}`);
-        res.send("ERROR WHILE DELETING CONTACT BY ID");
+        console.log(`ERROR WHILE DELETING RECORD IN DB, BY ID ${err}`);
+        res.send("ERROR WHILE DELETING RECORD BY ID");
     }
 }
 

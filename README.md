@@ -2,6 +2,8 @@
 
 This project is a simple Node.js application using Express.js and MongoDB to provide basic CRUD (Create, Read, Update, Delete) operations.
 
+- V1.0.1 (3/15/2024): Better/generic renaming of API to /persons. Also added support for 'birthdate' field for 'Person' record
+
 ### COMING SOON - React UI to consume the CRUD server created here
 
 ## Technologies Used
