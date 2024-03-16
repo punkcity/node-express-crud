@@ -2,9 +2,10 @@
 
 This project is a simple Node.js application using Express.js and MongoDB to provide basic CRUD (Create, Read, Update, Delete) operations.
 
+- V1.0.1 (3/16/2024): Added CORS support - using cors package, so UI from different URL can be served
 - V1.0.1 (3/15/2024): Better/generic renaming of API to /persons. Also added support for 'birthdate' field for 'Person' record
 
-### COMING SOON - React UI to consume the CRUD server created here
+### NOW READY - [React UI to consume this CRUD server!](https://github.com/punkcity/react-crud)
 
 ## Technologies Used
 
